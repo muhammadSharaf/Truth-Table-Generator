@@ -1,0 +1,19 @@
+.termText {
+    -fx-font-size: 20;
+    -fx-text-fill: blue;
+}
+
+.outputText {
+    -fx-font-size: 20;
+    -fx-text-fill: #860500;
+}
+
+.outputValues {
+    -fx-font-size: 16;
+    -fx-text-fill: #27a03b;
+}
+
+.combinationText {
+    -fx-font-size: 16;
+    -fx-text-fill: cadetblue;
+}
